@@ -1,2 +1,2 @@
 # ARM
-Telegram bor for ARM project
+This is a side project of my department activity. It's intended for representing data from the MySQL database on employees' requests to Telegram Bot. This bot works only in the private group and could respond to the following commands: /start - show information about itself /status - show calibration status of equipment /loc - show the current location of selected equipment /manual - download and show a user manual for selected equipment.
